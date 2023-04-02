@@ -1,4 +1,7 @@
 # create a list of tuples representing each participant in the race
+import datetime
+
+
 participants = [
     ("John", "10:00:00", "10:45:30"),
     ("Alice", "10:05:15", "10:55:10"),
