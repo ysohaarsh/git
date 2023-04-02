@@ -1,3 +1,5 @@
+# created a board game using python
+
 # create a list of tuples with player names and their starting positions
 players = [("Player 1", 0), ("Player 2", 0), ("Player 3", 0), ("Player 4", 0)]
 
